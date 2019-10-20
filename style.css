@@ -36,7 +36,7 @@ header.header .nav>li>a:hover,
 header.header .nav>li>a:focus {
     text-decoration: none;
     background-color: transparent;
-    color: #000;
+    color: #ffffff;
 }
 
 header.header .sign_up {
@@ -684,3 +684,14 @@ footer.footer .footer_last_icon i {
     font-size: 20px;
     margin-left: 20px;
 }
+
+.citeheader{
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 35px;
+    margin-bottom: 52px;
+    margin-top: -5px;
+
+}
+  
