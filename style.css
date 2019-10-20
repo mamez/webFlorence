@@ -126,11 +126,11 @@ section.project {
 }
 
 section.project .project_icon:nth-child(2) i {
-    color: #80d8ff;
+    color:#3b5cbb;
 }
 
 section.project .project_icon:nth-child(3) i {
-    color: #ea80fc;
+    color: #3b5cbb;
 }
 
 section>.text {
@@ -191,7 +191,7 @@ section.project .single_project {
 
 section.project .single_project i {
     font-size: 80px;
-    color: #b388ff;
+    color: #3b5cbb;
 }
 
 section.project .single_project h3 {
