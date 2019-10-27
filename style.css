@@ -529,7 +529,7 @@ section.team .flex-control-thumbs {
     z-index: 0;
 }
 .flex-control-thumbs img {
-    border-radius: 50%;
+   /* border-radius: 50%;*/
     height: 100px;
     opacity: 0.2;
     width: 100px;
@@ -543,12 +543,12 @@ section.team .flex-control-thumbs {
     width: -o-fit-content;
 }
 .flex-control-nav.flex-control-thumbs>li .flex-active {
-    border: 20px solid #fff;
-    box-shadow: 0 0 0 1px rgba(35, 31, 33, 0.1);
-    height: 200px;
+    /*border: 20px solid #fff;
+    box-shadow: 0 0 0 1px rgba(35, 31, 33, 0.1);*/
+    height: 300px;
     margin-right: 0;
     margin-top: -50px;
-    width: 200px;
+    width: 300px;
 }
 section.team .flexslider .team-text p i {
     color: #90a4ae;
