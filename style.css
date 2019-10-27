@@ -638,7 +638,7 @@ section.contact_area .form_area input[type="submit"] {
 }
 footer.footer {
     background: #061e37 none repeat scroll 0 0;
-    padding: 95px 0 90px;
+    padding: 38px 0 1px;
 }
 footer.footer .footer_first_menu {}
 footer.footer .footer_first_menu ul {
@@ -678,7 +678,7 @@ footer.footer .footer_last_icon {
     margin-top: 60px;
 }
 footer.footer .footer-logo img {
-    margin-bottom: 50px;
+    margin-bottom: 7px;
 }
 footer.footer .footer_last_icon i {
     color: #384b5f;
