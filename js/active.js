@@ -26,5 +26,6 @@
      activeHeader: "ui-icon-circle-minus"
  };
  $("#accordion").accordion({
+     active:3,
      icons: icons
  });
