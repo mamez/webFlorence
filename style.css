@@ -211,6 +211,7 @@ section.project .single_project p {
     font-size: 15px;
     font-weight: 400;
     color: #8197a3;
+    text-align: justify;
 }
 
 section.project p.get_start {
@@ -456,7 +457,7 @@ section.customer_area .vertical_text img {
 }
 
 
-}
+
 section.customer_area .customer_say {
     margin-top: 115px;
     padding-right: 135px;

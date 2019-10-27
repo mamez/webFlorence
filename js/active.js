@@ -27,5 +27,8 @@
  };
  $("#accordion").accordion({
      active:3,
-     icons: icons
+     icons: icons,
+     animate:200,
+     collapsible:true,
+     heighStyle:"content"
  });
