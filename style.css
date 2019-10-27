@@ -520,7 +520,7 @@ section.team .flexslider {
     text-align: center;
 }
 section.team .flex-control-thumbs {
-    height: 250px;
+   /* height: 250px;*/
     margin: 5px 0 0;
     overflow: hidden;
     padding-top: 100px;
