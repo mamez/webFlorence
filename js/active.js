@@ -16,7 +16,7 @@
 
  $(".verticalCarousel").verticalCarousel({
      currentItem: 1,
-     showItems: 5,
+     showItems: 2,
 
  });
 
