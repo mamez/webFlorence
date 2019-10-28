@@ -146,7 +146,7 @@ section.project p.button {
 
 section.project a.button {
     display: inline-block;
-    background: #1de9b6 none repeat scroll 0 0;
+    background: #061e37 none repeat scroll 0 0;
     font-weight: 700;
     box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.15);
 }
@@ -395,7 +395,7 @@ section.customer_area a.button {
 }
 
 .vertical_main i {
-    color: #fff;
+    color: #061e37;
     font-size: 40px;
     margin-left: 105px;
 }
@@ -625,7 +625,7 @@ section.contact_area .form_area input[type="checkbox"] {
     margin-right: 10px;
 }
 section.contact_area .form_area input[type="submit"] {
-    background: #1de9b6 none repeat scroll 0 0;
+    background: #061e37 none repeat scroll 0 0;
     border: medium none;
     border-radius: 5px;
     color: rgb(255, 255, 255);
