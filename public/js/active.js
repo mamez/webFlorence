@@ -1,0 +1,34 @@
+ $(function () {
+     SyntaxHighlighter.all();
+ });
+ $(window).load(function () {
+     $('.flexslider').flexslider({
+         animation: "slide",
+         controlNav: "thumbnails",
+         start: function (slider) {
+             $('body').removeClass('loading');
+         }
+     });
+ });
+
+
+
+
+ $(".verticalCarousel").verticalCarousel({
+     currentItem: 1,
+     showItems: 2,
+
+ });
+
+
+ var icons = {
+     header: "ui-icon-circle-plus",
+     activeHeader: "ui-icon-circle-minus"
+ };
+ $("#accordion").accordion({
+     active:3,
+     icons: icons,
+     animate:200,
+     collapsible:true,
+     heighStyle:"content"
+ });
